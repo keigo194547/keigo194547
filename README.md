@@ -2,9 +2,9 @@
 
 #### :palm_tree:やってること
 - ゲーム制作
-  - Unity,C#
+  - Unity, C#
 - モバイルアプリケーション制作
-  - Flutter,Dart
+  - Flutter, Dart
 
 #### :eyes:いま手を出しているもの
 - AR関連
