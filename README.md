@@ -7,11 +7,12 @@
   - Flutter, Dart
 
 #### :eyes:いま手を出しているもの
-- AR関連
+- AR関連(SparkAR, TS, JSなどなど)
 - 競技プログラミング(難しい...)
 
 #### 🤔手を出してみたいもの
 - 機械学習(時間がぁ...orz)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=keigo194547&count_private=true&show_icons=true&theme=dracula) 
 
