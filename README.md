@@ -3,6 +3,7 @@
 #### :palm_tree:やってること
 - XRコンテンツの制作
   - Unity C#
+  - Shader作成
 - モバイルアプリケーション制作
   - Flutter, Dart
 
