@@ -14,7 +14,3 @@
 #### 🤔手を出してみたいもの
 - 機械学習(時間がぁ...orz)
 
-
-![](https://github-readme-stats.vercel.app/api?username=keigo194547&count_private=true&show_icons=true&theme=dracula) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keigo194547&layout=compact&theme=dracula)
